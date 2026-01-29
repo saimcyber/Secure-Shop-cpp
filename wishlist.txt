@@ -1,0 +1,3 @@
+saimzaib
+104 | Laptop | Electronics | 199 | 800$
+101 | Headphones | Sound | 45 | 10$

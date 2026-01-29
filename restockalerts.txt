@@ -1,0 +1,4 @@
+Threshold: 50
+Product ID: 101  | Name:  Headphones  | Category:  Sound  | Quantity: 46 | Price:  10$
+Product ID: 104  | Name:  Laptop  | Category:  Electronics  | Quantity: 10 | Price:  800$Threshold: 10
+Threshold: 10

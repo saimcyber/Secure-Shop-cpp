@@ -1,0 +1,4 @@
+101 | Headphones | Sound | 43 | 10$
+102 | Keyboard | Computer | 496 | 25$
+103 | Coffee Mug | Kitchen | 194 | 5$
+104 | Laptop | Electronics | 197 | 800$

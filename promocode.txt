@@ -1,0 +1,2 @@
+Quantity-Based | BULKBUY | 10 | 20%
+Amount-Based | HAPPYDAY | 10 | 20%
